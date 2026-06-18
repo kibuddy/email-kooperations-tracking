@@ -7,7 +7,7 @@
 | Nr. | Datum | Betreff | Organisation | Status | Gmail Link | Notizen |
 |----|-------|---------|--------------|--------|------------|---------|
 | 29 | 2026-06-18 | Reisepädagoge / Individualpädagogik | zuper.gmbh | Neu versendet | [Link](https://mail.google.com/mail/u/0/#inbox/19eda8fe9c47fa56) | Lebenslauf + Exposé versendet |
-| 30 | 2026-06-18 | AW: Bewerbung als Erzieher in der Wohngruppe "Distel Süderelbe" | Kierst | In Prüfung | [Link](https://mail.google.com/mail/u/0/#inbox/19eda9167a21b07f) | Rückmeldung erhalten |
+| 30 | 2026-06-18 | ~~AW: Bewerbung als Erzieher in der Wohngruppe "Distel Süderelbe"~~ | ~~Kierst~~ | ~~Absage~~ | [Link](https://mail.google.com/mail/u/0/#inbox/19eda9167a21b07f) | **Absage** erhalten |
 | 31 | 2026-06-18 | Anfrage Individualpädagogik / Reisepädagoge | mittelpunktkj.de | Neu versendet | [Link](https://mail.google.com/mail/u/0/#inbox/19eda71badf3a99d) | Exposé + Lebenslauf angekündigt |
 | 32 | 2026-06-18 | Reise- und Individualpädagogik - Unser Telefonat | cjw.eu | Neu versendet | [Link](https://mail.google.com/mail/u/0/#inbox/19eda03c78aac723) | Lebenslauf + Exposé versendet |
 | 33 | 2026-06-18 | Honorarvertrag Marek Schilke (Fortsetzung) | Procontextus | In Verhandlung | [Link](https://mail.google.com/mail/u/0/#inbox/19ed55d6a8d96643) | Weitere Rückfragen zum Startzeitpunkt |
@@ -50,4 +50,4 @@
 | 27 | 2026-06-16 | Mitarbeit / Bewerbung / Kooperation (Blackbox) | Blackbox Jugendhilfe | Neu versendet | [Link](https://mail.google.com/mail/u/0/#inbox/19ecf96853b72f81) | Batch 16.06. |
 | 28 | 2026-06-16 | Unser Telefonat / Reisepädagoge 1:1 | Nord-Pfad | In Verhandlung | [Link](https://mail.google.com/mail/u/0/#inbox/19ecfb77bbdd0270) | Zoom + mehrere Replies |
 
-**Hinweis**: Tabelle wird täglich aktualisiert. Neue Einträge werden oben in einem separaten Abschnitt aufgeführt.
+**Hinweis**: Durchgestrichene Zeilen = Absagen. Tabelle wird täglich aktualisiert.
