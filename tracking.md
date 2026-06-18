@@ -11,6 +11,7 @@
 | 31 | 2026-06-18 | Anfrage Individualpädagogik / Reisepädagoge | mittelpunktkj.de | Neu versendet | [Link](https://mail.google.com/mail/u/0/#inbox/19eda71badf3a99d) | Exposé + Lebenslauf angekündigt |
 | 32 | 2026-06-18 | Reise- und Individualpädagogik - Unser Telefonat | cjw.eu | Neu versendet | [Link](https://mail.google.com/mail/u/0/#inbox/19eda03c78aac723) | Lebenslauf + Exposé versendet |
 | 33 | 2026-06-18 | Honorarvertrag Marek Schilke (Fortsetzung) | Procontextus | In Verhandlung | [Link](https://mail.google.com/mail/u/0/#inbox/19ed55d6a8d96643) | Weitere Rückfragen zum Startzeitpunkt |
+| **34** | **2026-06-18** | **Anfrage: Reisepädagoge / Intensivpädagogische Betreuung (§35)** | **Caring-ISP (Mirco Kümper)** | **Neu versendet** | [Link](https://mail.google.com/mail/u/0/#inbox/19edaa1d51a4b5c7) | **Neue Anfrage heute** - Lebenslauf + Exposé angekündigt |
 
 ## Mai 2026
 
